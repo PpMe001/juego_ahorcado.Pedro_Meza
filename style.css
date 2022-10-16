@@ -1,0 +1,39 @@
+h1{
+    color: rgb(238, 161, 59);
+    text-align: center;
+}
+h2{
+    color: rgb(238, 161, 59);
+    text-align: center;
+    position: relative;
+    bottom: -180px;
+}
+
+#fondo{
+    width: auto;
+    height: auto;
+    background-image: url(https://fondosmil.com/fondo/9853.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+#inputs{
+    text-align: center;
+    position: relative;
+    bottom: -150px;
+}
+#result{
+    text-align: center;
+    position: relative;
+    bottom: -50px;
+}
+#intentos{
+    text-align: center;
+    position: relative;
+    bottom: -170px;
+}
+#letras_erradas{
+    text-align: center;
+    position: relative;
+    bottom: -170px;
+}
